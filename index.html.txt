@@ -9,6 +9,7 @@
 	<p>
 	&#127760 - Hello (qigel Mbongeni Mdletshe)!
 	</p>
+	<p><a href="author.html">Authors</a></p>
 </body>
 </html>
 	
